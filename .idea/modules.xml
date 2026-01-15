@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/student_app/melos_student_app.iml" filepath="$PROJECT_DIR$/apps/student_app/melos_student_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/teacher_app/melos_teacher_app.iml" filepath="$PROJECT_DIR$/apps/teacher_app/melos_teacher_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/ui_kit/melos_ui_kit.iml" filepath="$PROJECT_DIR$/packages/ui_kit/melos_ui_kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/utilities/melos_utilities.iml" filepath="$PROJECT_DIR$/packages/utilities/melos_utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_monorepo_example.iml" filepath="$PROJECT_DIR$/melos_monorepo_example.iml" />
+    </modules>
+  </component>
+</project>
