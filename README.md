@@ -51,29 +51,31 @@ If you don’t have melos installed:
 
 ```bash
 dart pub global activate melos
+```
 
 Make sure ~/.pub-cache/bin is in your PATH.
-```
 
 ### 2️⃣ Bootstrap the Workspace
-```bash
+
 Run the following to install dependencies and link packages:
+```bash
 melos bootstrap
+```
 
 This will:
-Install all package and app dependencies
-Link local packages into apps
-```
+- Install all package and app dependencies
+- Link local packages into apps
 
 ### 3️⃣ Run an App
-```bash
+
 Navigate to one of the apps and run it like a regular Flutter project:
 
+```bash
 cd apps/example_app
 flutter run
+```
 
 You can add more apps under apps/ and each app can use shared code from packages/.
-```
 ---
 
 ### 📌 Why Use a Monorepo in Flutter?
